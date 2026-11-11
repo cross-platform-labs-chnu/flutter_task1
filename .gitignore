@@ -1,0 +1,19 @@
+# Flutter generated files and local configuration
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+**/Flutter/Generated.xcconfig
+**/Flutter/flutter_export_environment.sh
+**/Flutter/ephemeral/
+**/flutter/ephemeral/
+android/local.properties
+
+# Local environment files
+.env
+.env.*
+!.env.example
+.idea/
